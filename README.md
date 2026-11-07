@@ -1,10 +1,8 @@
 # Hi there! I'm an aspiring Backend / DevOps Engineer 👋
 
 ### 🎯 My Goals:
-- Learning Python for my exams and backend development.
-- Planning to level up in DevOps and cloud technologies.
+- Learning **Python** for my exams and backend development.
+- Planning to level up in **DevOps** and cloud technologies.
 
 ### 🛠️ Tech Stack & Tools:
-- Python
-- Git
-- Linux
+<img src="https://jsdelivr.net" width="40" height="40" alt="Python" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Git" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Linux" />
