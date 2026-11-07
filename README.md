@@ -5,6 +5,4 @@
 - Planning to level up in **DevOps** and cloud technologies.
 
 ### 🛠️ Tech Stack & Tools:
-* 🐍 **Python**
-* 🐙 **Git**
-* 🐧 **Linux**
+[![Python](https://shields.io)](#) [![Git](https://shields.io)](#) [![Linux](https://shields.io)](#)
