@@ -1,19 +1,8 @@
-# Привет! Я начинающий Backend / DevOps разработчик 👋
+# Hi there! I'm an aspiring Backend / DevOps Engineer 👋
 
-<!-- ШАГ 1: Сюда перетащи мышкой свое фото, прямо вместо строчки ниже -->
-<img src="https://unsplash.com" width="180" align="right" alt="Моё фото"/>
+### 🎯 My Goals:
+- Learning **Python** for my exams and backend development.
+- Planning to level up in **DevOps** and cloud technologies.
 
-### 🎯 Моя цель:
-- Изучаю **Python** для сдачи экзаменов и разработки бэкенда.
-- Планирую развиваться в сторону **DevOps** и облачных технологий.
-
-### 🛠️ Что я учу и использую:
-![Python](https://shields.io) ![Git](https://shields.io) ![Linux](https://shields.io)
-
-### 📈 Статистика моей активности:
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
-
-### 💬 Связаться со мной:
-[![Telegram](https://shields.io)](https://t.me)
+### 🛠️ Tech Stack & Tools:
+<img src="https://githubusercontent.com" width="40" height="40" alt="Python" /> <img src="https://githubusercontent.com" width="40" height="40" alt="Git" /> <img src="https://githubusercontent.com" width="40" height="40" alt="Linux" />
