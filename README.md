@@ -1,7 +1,10 @@
-### 🛠️ Мой стек технологий / Tech Stack
+# Hi there! I'm an aspiring Backend / DevOps Engineer 👋
 
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="AI" />
-  <img src="https://shields.io" alt="Linux" />
-</p>
+### 🎯 My Goals:
+- Learning Python for my exams and backend development.
+- Planning to level up in DevOps and cloud technologies.
+
+### 🛠️ Tech Stack & Tools:
+- Python
+- Git
+- Linux
