@@ -5,4 +5,6 @@
 - Planning to level up in **DevOps** and cloud technologies.
 
 ### 🛠️ Tech Stack & Tools:
-<img src="https://jsdelivr.net" width="40" height="40" alt="Python" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Git" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Linux" />
+* 🐍 **Python**
+* 🐙 **Git**
+* 🐧 **Linux**
