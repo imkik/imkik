@@ -1,3 +1,4 @@
+<img width="1448" height="1086" alt="photo_2026-11-07_10-40-03" src="https://github.com/user-attachments/assets/61fd2761-88f6-474b-87e1-f825c00a44e2" />
 # 💫 About Me:
 🎓 Student learning Python and backend development<br>🛠️ Previously explored C++; currently focusing on Python<br>☁️ Aspiring Backend Developer, then DevOps Engineer<br>📚 Building my skills in programming, algebra, and computer science
 
