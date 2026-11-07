@@ -1,10 +1,18 @@
-# Aey yoo ! Imma an aspiring Backend / DevOps Engineer 
+# 💫 About Me:
+🎓 Student learning Python and backend development<br>🛠️ Previously explored C++; currently focusing on Python<br>☁️ Aspiring Backend Developer, then DevOps Engineer<br>📚 Building my skills in programming, algebra, and computer science
 
-###  My Goals:
-- Learning **Python** for my exams and backend development.
-- Planning to level up in **DevOps** and cloud technologies.
 
-### 🛠️ Tech Stack & Tools:
-<img src="python.png" width="12" height="12" valign="middle" /> **Python** &nbsp;&nbsp; <img src="linux.png" width="12" height="12" valign="middle" /> **Linux**
-<img width="1024" height="1024" alt="download" src="https://github.com/user-attachments/assets/337ef12d-1771-4809-96c3-7ffb75cb29b6" />
-lets do this, man TBC.
+## 🌐 Socials:
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mkikyks) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mkiksatender@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=imkik&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=imkik&theme=apprentice&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=imkik&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=imkik&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
